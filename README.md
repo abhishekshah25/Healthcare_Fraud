@@ -1,4 +1,6 @@
-What is Healthcare Insurance Fraud
+What is Healthcare Insurance Fraud?
+
+
 Healthcare fraud is an organized crime which involves peers of providers, physicians, beneficiaries acting together to make fraud claims.
 Some of the most common types of frauds by providers are: 
 
