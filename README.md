@@ -1,6 +1,4 @@
-
-![Healthcare](https://github.com/abhishekshah25/Healthcare_Fraud/assets/147745895/0ee910b3-bfb6-4f0c-8c12-70b9c8ad0078)
-
+Healthcare Fraud Detection
 
 
 ![HealthCare_Fraud](https://github.com/abhishekshah25/Healthcare_Fraud/assets/147745895/89925f10-48c0-4691-967d-16004b7d12c0)
