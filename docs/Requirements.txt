@@ -6,3 +6,6 @@ scikit-learn==1.0.2
 collection
 imblearn
 beautifultable==1.1.0
+nodejs
+vite
+flask
