@@ -30,6 +30,7 @@ Statistics shows that 15% of the total Medicare expense are caused due to fraud 
 Objective
 
 Our objective is to predict whether a provider is potentially fraudulent or probability score of that provider's fradulent activity and also find the reasons behind it as well to prevent the financial loss.
+
 Find out the important features which are the reasons behind the potentially fraudulent providers. Such as if claim amount is high for a patient whose risk score is low, then it is suspicious.
 
 ML Formulation
