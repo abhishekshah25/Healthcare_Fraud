@@ -47,7 +47,9 @@ c) 	The insurer should pay the claim amount to the provider for legitimate claim
 
 Performance metric
 
-As the dataset in healthcare fraud is highly imbalanced (very few fraud cases), ‘accuracy’ won’t be the proper metric. An important initial step will be to plot the confusion matrix. Then we need to check the misclassification i.e., FP and FN. FN means the cases predicted by the model are legitimate, but it is fraudulent. FP means the cases detected by the model are fraudulent, but it is legitimate.
+As the dataset in healthcare fraud is highly imbalanced (very few fraud cases), ‘accuracy’ won’t be the proper metric. An important initial step will be to plot the confusion matrix. Then we need to check the misclassification i.e., FP and FN. 
+
+FN means the cases predicted by the model are legitimate, but it is fraudulent. FP means the cases detected by the model are fraudulent, but it is legitimate.
 
 So, the performance metrics are:
 
