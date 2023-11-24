@@ -1,4 +1,4 @@
-Healthcare Fraud Detection
+Healthcare Insurance Fraud Detection
 
 
 ![HealthCare_Fraud](https://github.com/abhishekshah25/Healthcare_Fraud/assets/147745895/89925f10-48c0-4691-967d-16004b7d12c0)
