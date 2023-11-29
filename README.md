@@ -23,7 +23,7 @@ Some of the most common types of frauds by providers are:
 
 •	Billing for a covered service when the service actually provided was not covered.
 
-Business Problem
+Business Problem:-
 
 Statistics shows that 15% of the total Medicare expense are caused due to fraud claims. Insurance companies are the most vulnerable institutions impacted due to these bad practices. Insurance premium is also increasing day by day due to this bad practice.
 
