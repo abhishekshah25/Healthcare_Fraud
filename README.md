@@ -37,7 +37,7 @@ ML Formulation
 
 Build a binary classification model based on the claims filled by the provider along with Inpatient data, Outpatient data, Beneficiary details to predict whether the provider is potentially fraudulent or not.
 
-Business constraints
+Business constraints:-
 
 a).	The cost of misclassification is very high. False Negative and False Positive should be as low as possible. If fraudulent providers are predicted as non-fraudulent (False Negative) it is a huge financial loss to the insurer and if legitimate providers are predicted as fraudulent (False Positive) it will cost for investigation and also, it’s a matter of reputation of the agency.
 
