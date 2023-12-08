@@ -45,7 +45,7 @@ b)	Model interpretability is very important because the agency or insurer should
 
 c) 	The insurer should pay the claim amount to the provider for legitimate claims within 30 days. So, there are no such strict latency constraints, but it should not take more than a day because depending on the output of the model the agency may need to set up an investigation.
 
-Performance metric
+Performance Metric:-
 
 As the dataset in healthcare fraud is highly imbalanced (very few fraud cases), ‘accuracy’ won’t be the proper metric. An important initial step will be to plot the confusion matrix. Then we need to check the misclassification i.e., FP and FN. 
 
