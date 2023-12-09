@@ -6,7 +6,7 @@ Healthcare Insurance Fraud Detection
 
 
 
-What is Healthcare Insurance Fraud?
+What is Healthcare Insurance Fraud:-
 
 
 Healthcare fraud is an organized crime which involves peers of providers, physicians, beneficiaries acting together to make fraud claims.
