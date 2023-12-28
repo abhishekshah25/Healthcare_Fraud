@@ -26,7 +26,7 @@ def predict():
 
         uploaded_files = request.files.getlist('uploadedFiles')
 
-        # print(uploaded_files)
+        #  print(uploaded_files)
 
         for file in uploaded_files:
             if file.filename == '':
