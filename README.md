@@ -51,7 +51,7 @@ As the dataset in healthcare fraud is highly imbalanced (very few fraud cases), 
 
 FN means the cases predicted by the model are legitimate, but it is fraudulent. FP means the cases detected by the model are fraudulent, but it is legitimate.
 
-So, the performance metrics are:
+So, the performance metrics are:-
 
 a) Confusion Matrix: It is the table where TP, FP, TN, FN counts will be plotted. From this table, we can visualize the performance of the model.
 
