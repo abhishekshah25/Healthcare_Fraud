@@ -63,6 +63,7 @@ c) AUC Score: AUC stands for Area Under ROC (Receiver Operating Characteristics)
 
 d) FPR and FNR: As the cost of misclassification is very high, we need to check the FPR and FNR separately, it should be as low as possible.
 
+
 Approach:-
 
 a. 	Split the data into Train and Validation (70:30)
