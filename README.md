@@ -33,6 +33,7 @@ Our objective is to predict whether a provider is potentially fraudulent or prob
 
 Find out the important features which are the reasons behind the potentially fraudulent providers. Such as if claim amount is high for a patient whose risk score is low, then it is suspicious.
 
+
 ML Formulation:-
 
 Build a binary classification model based on the claims filled by the provider along with Inpatient data, Outpatient data, Beneficiary details to predict whether the provider is potentially fraudulent or not.
