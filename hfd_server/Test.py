@@ -367,8 +367,6 @@ y_predict = model.predict(x_test_std)
 
 print(y_predict[:20])
 
-# finding fraud percentage prediction for the input file provided
-
 unique, counts = np.unique(y_predict, return_counts=True)
 a = dict(zip(unique, counts))
 print(a)
